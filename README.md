@@ -284,5 +284,6 @@ curl -X POST http://localhost:5678/webhook/demande-client \
 | **Commande** | "Je veux 5 cartons d'eau" | Email stock + Sheets Commandes |
 | **Réclamation** | "Produit périmé reçu" | Email service client + ticket + Sheets |
 | **Urgence** | "URGENT ! Paiement bloqué" | Email responsable immédiat + Sheets |
-#   A u t o m a t i s a t i o n - i n t e l l i g e n t e - d u - t r a i t e m e n t - d e s - d e m a n d e s - c l i e n t s  
+#   A u t o m a t i s a t i o n - i n t e l l i g e n t e - d u - t r a i t e m e n t - d e s - d e m a n d e s - c l i e n t s 
+ 
  
